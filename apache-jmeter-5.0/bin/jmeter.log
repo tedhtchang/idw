@@ -1,0 +1,58 @@
+2018-10-22 16:23:28,811 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-10-22 16:23:28,829 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-10-22 16:23:28,830 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-10-22 16:23:28,830 INFO o.a.j.JMeter: Setting JMeter property: SERVER=ibmdeveloper.us-east.containers.appdomain.cloud
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: Version 5.0 r1840935
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: java.version=1.8.0_181
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: os.arch=x86_64
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: os.version=10.13.6
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-10-22 16:23:28,835 INFO o.a.j.JMeter: Available Processors =8
+2018-10-22 16:23:28,839 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-10-22 16:23:28,839 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-10-22 16:23:28,840 INFO o.a.j.JMeter: JMeterHome=/Users/tedchang/Box Sync/Documents/IDW/apache-jmeter-5.0
+2018-10-22 16:23:28,840 INFO o.a.j.JMeter: user.dir  =/Users/tedchang/Box Sync/Documents/IDW/apache-jmeter-5.0/bin
+2018-10-22 16:23:28,840 INFO o.a.j.JMeter: PWD       =/Users/tedchang/Box Sync/Documents/IDW/apache-jmeter-5.0/bin
+2018-10-22 16:23:28,841 INFO o.a.j.JMeter: IP: 9.52.237.57 Name: teds-mbp.usca.ibm.com FullName: teds-mbp.usca.ibm.com
+2018-10-22 16:23:28,844 INFO o.a.j.s.FileServer: Default base='/Users/tedchang/Box Sync/Documents/IDW/apache-jmeter-5.0/bin'
+2018-10-22 16:23:28,856 INFO o.a.j.s.FileServer: Set new base='/Users/tedchang/bsd/IDW'
+2018-10-22 16:23:28,964 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-10-22 16:23:28,980 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-10-22 16:23:28,985 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2018-10-22 16:23:28,990 INFO o.a.j.s.SaveService: Loading file: /Users/tedchang/bsd/IDW/idw1.jmx
+2018-10-22 16:23:29,032 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-22 16:23:29,032 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-22 16:23:29,032 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-22 16:23:29,032 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-22 16:23:29,032 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-10-22 16:23:29,032 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-10-22 16:23:29,055 INFO o.a.j.JMeter: Creating summariser <summary>
+2018-10-22 16:23:29,059 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-10-22 16:23:29,059 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-22 16:23:29,059 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-22 16:23:29,064 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-10-22 16:23:29,064 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-10-22 16:23:29,348 INFO o.a.j.JMeter: Running test (1540250609348)
+2018-10-22 16:23:29,373 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 1
+2018-10-22 16:23:29,373 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group 1.
+2018-10-22 16:23:29,373 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-10-22 16:23:29,373 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-10-22 16:23:29,377 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-10-22 16:23:29,377 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-10-22 16:23:29,379 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1 1-1
+2018-10-22 16:23:29,396 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = teds-mbp.usca.ibm.com
+2018-10-22 16:23:29,402 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-10-22 16:23:29,404 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-10-22 16:23:29,404 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-10-22 16:23:29,404 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-10-22 16:23:29,404 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-10-22 16:23:30,179 INFO o.a.j.r.Summariser: summary +      1 in 00:00:01 =    1.2/s Avg:   714 Min:   714 Max:   714 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2018-10-22 16:23:37,359 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1 1-1
+2018-10-22 16:23:37,359 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1 1-1
+2018-10-22 16:23:37,360 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-10-22 16:23:37,361 INFO o.a.j.r.Summariser: summary +      5 in 00:00:07 =    0.7/s Avg:  1435 Min:   280 Max:  5656 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+2018-10-22 16:23:37,361 INFO o.a.j.r.Summariser: summary =      6 in 00:00:08 =    0.7/s Avg:  1314 Min:   280 Max:  5656 Err:     0 (0.00%)
