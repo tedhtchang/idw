@@ -1,2 +1,4 @@
 *.jtl
 .DS_Store
+apache-jmeter-5.0/backups
+jmeter.log
