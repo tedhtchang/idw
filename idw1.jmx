@@ -34,7 +34,7 @@
           </elementProp>
           <elementProp name="server" elementType="Argument">
             <stringProp name="Argument.name">server</stringProp>
-            <stringProp name="Argument.value">${__P(SERVER, www.yourip.com)}</stringProp>
+            <stringProp name="Argument.value">${__P(SERVER, youip)}</stringProp>
             <stringProp name="Argument.desc">server address</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
@@ -119,7 +119,7 @@
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/2018/10/01/announcing-pytorch-1-support-in-fabric-for-deep-learning/</stringProp>
+          <stringProp name="HTTPSampler.path">/blogs/2018/10/01/announcing-pytorch-1-support-in-fabric-for-deep-learning/</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
